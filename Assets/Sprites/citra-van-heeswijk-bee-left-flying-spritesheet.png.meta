@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: f6067d5ee79a20a409a3a97d7094d231
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2908201628739359688
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_0
+  - first:
+      213: 9147910634803993812
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_1
+  - first:
+      213: 8082288349539923841
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_2
+  - first:
+      213: -8765784062500876423
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_3
+  - first:
+      213: -8607139373365195796
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_4
+  - first:
+      213: 864777534538001002
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_5
+  - first:
+      213: 5221162966344964551
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_6
+  - first:
+      213: -3038822940490311215
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_7
+  - first:
+      213: 3910576932504300650
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_8
+  - first:
+      213: 659749767112399859
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_9
+  - first:
+      213: 8864904625784855824
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_10
+  - first:
+      213: -9168893871685811628
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_11
+  - first:
+      213: 4104122480226469108
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_12
+  - first:
+      213: -528945396215971940
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_13
+  - first:
+      213: 2559625070931691969
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_14
+  - first:
+      213: -203037216522996860
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_15
+  - first:
+      213: 6692256608219445064
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_16
+  - first:
+      213: -4958881856082285156
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_17
+  - first:
+      213: 1936850518037392219
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_18
+  - first:
+      213: 2872812576399590486
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_19
+  - first:
+      213: 1796027942734133786
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_20
+  - first:
+      213: -7213009128508206587
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_21
+  - first:
+      213: 5634635058135512496
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_22
+  - first:
+      213: -8427790726912803784
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_23
+  - first:
+      213: -141237826580831818
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_24
+  - first:
+      213: -6731381772785720098
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_25
+  - first:
+      213: 3577276114354680806
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_26
+  - first:
+      213: 2482192860366231293
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_27
+  - first:
+      213: 6018187287069984474
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_28
+  - first:
+      213: 4842368385507832741
+    second: citra-van-heeswijk-bee-left-flying-spritesheet_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1530
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ecc095280e8524eb393092bbd68439
+      internalID: -2908201628739359688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1530
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42aae940000ee14b8d247bfeeb1c52a
+      internalID: 9147910634803993812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1530
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd4b2b667cdee1345a08ba7e1c8d8de9
+      internalID: 8082288349539923841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1530
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01198bb949f90b24dae944ac02bbc08e
+      internalID: -8765784062500876423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1530
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e765447b1cbeba843ae0e78ea91e0ac1
+      internalID: -8607139373365195796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1148
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0b87588beca2d49b91c5ffb0748c5e
+      internalID: 864777534538001002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1148
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d119cc6918776cb42b7e6d4f94411e08
+      internalID: 5221162966344964551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1148
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0493bf7db80729439b934e61c0f167e
+      internalID: -3038822940490311215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1148
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7940d15b9385164fa3561d332ce3a28
+      internalID: 3910576932504300650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1148
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd251692c688e1d47b73fbd3d5c91d75
+      internalID: 659749767112399859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c4aa89315765e44abef210376353a7
+      internalID: 8864904625784855824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 766
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc329248fd63d854082b3b340a6bd12a
+      internalID: -9168893871685811628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 766
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca41c3b2e11e654ab18d355b1aa3395
+      internalID: 4104122480226469108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 766
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6651c9d0ccda49c4f9c75479089bef12
+      internalID: -528945396215971940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 766
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875fa8d08648ae24b8a6ffb9e7cec974
+      internalID: 2559625070931691969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 320
+        height: 248
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47c9ff8be9670b4e8908a69c9516c50
+      internalID: -203037216522996860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 358
+        width: 320
+        height: 256
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ebdc17eb0d2e4ea3b650e95bab857
+      internalID: 6692256608219445064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 366
+        width: 320
+        height: 248
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598221f1aedb1f6498f76b7ecf075828
+      internalID: -4958881856082285156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d993075706e6d644c8caff6b9893c9be
+      internalID: 1936850518037392219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50eeb1be70057b940a221b596126f85a
+      internalID: 2872812576399590486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317661bcecf186459603724e4f2926e
+      internalID: 1796027942734133786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb423e30e9792a44b92b85cf28dcf27
+      internalID: -7213009128508206587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4940bacf5a93644d8dfb980e30d918d
+      internalID: 5634635058135512496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c3973d57d3b5d42a669ba8f11852d4
+      internalID: -8427790726912803784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: citra-van-heeswijk-bee-left-flying-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2
+        width: 320
+        height: 230
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a8e7f88770c594f877eef2f1516f3d
+      internalID: -141237826580831818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
